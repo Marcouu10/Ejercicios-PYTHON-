@@ -1,2 +1,2 @@
 # Personal_projects
-This is a repository where i add personal projects 
+This is a repository where I add personal projects 
